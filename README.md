@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **barisonury@gmail.com**
 
-- ⚡ Fun fact **I can every problem thinking in bathroom**
+- ⚡ Fun fact **I can solve every problem when I thinking in bathroom**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
