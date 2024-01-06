@@ -16,7 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/barisonury/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/barisonury/" height="30" width="40" /></a>
-<a href="https://instagram.com/barisonury" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="barisonury" height="30" width="40" /></a>
+<a href="[https://instagram.com/barisonury](https://www.instagram.com/barisonury?igsh=MWc5aXB5cjVwemJyNQ==)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="barisonury" height="30" width="40" /></a>
 <a href="https://discord.gg/barisonur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="barisonur" height="30" width="40" /></a>
 </p>
 
