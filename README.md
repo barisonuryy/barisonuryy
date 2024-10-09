@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Barış Onur Yıldız</h1>
 <h3 align="center">A passionate game developer from Turkey</h3>
 
-- 🔭 I’m currently working on [Unity2D Platform Game](https://github.com/barisonuryy/2DPenguinGameI)
-
 - 🌱 I’m currently learning **Unreal Engine**
-
-- 🤝 I’m looking for help with [Unity2D Platform Game](https://github.com/barisonuryy/2DPenguinGameI)
 
 - 💬 Ask me about **anything about algorithm**
 
